@@ -4,7 +4,7 @@ My name is **Ioannis** and I am a postgraduate student at MSc Computational Phys
 - 💻 I’m currently working on many computational projects for my classes at the University
 - ⚛️ Interested in **Nuclear** and **Quantum Physics**, as well as in **Data Analysis**
 - 🗨️ Ask me about anything!
-- 📫 How to reach me johnster789@gmail.com OR istergak@auth.gr
+- 📫 How to reach me: johnster789@gmail.com OR istergak@auth.gr
 - ⚡ Fun fact: Coding is hard, but every line of code gets us closer to unlocking the secrets of the universe 🌠
 
 <!---
