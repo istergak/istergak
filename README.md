@@ -1,6 +1,6 @@
 ## *Hello, there* 👋
 
-My name is Ioannis and I am a postgraduate student at MSc Computational Physics at Aristotle University of Thessaloniki
+My name is **Ioannis** and I am a postgraduate student at MSc Computational Physics at Aristotle University of Thessaloniki
 - 💻 I’m currently working on many computational projects for my classes at the University
 - ⚛️ Interested in **Nuclear** and **Quantum Physics**, as well as in **Data Analysis**
 - 🗨️ Ask me about anything!
