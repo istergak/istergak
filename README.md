@@ -1,7 +1,7 @@
 ## *Hello, there* 👋 *my name is Ioannis*
 
-- MSc Computational Physics (Physics Department | AUTH) ⚙️
-- BSc Physics (Physics Department | AUTH) 🎓
+- MSc Computational Physics (Physics Department | AUTh) ⚙️
+- BSc Physics (Physics Department | AUTh) 🎓
   
 At the moment, I am a postgraduate student at MSc Computational Physics at Aristotle University of Thessaloniki
 - 🖥️ I’m working on many computational projects for my classes at the University
