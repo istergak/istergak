@@ -1,10 +1,10 @@
 ## *Hello, there* 👋 *my name is Ioannis*
 
-- MSc Computational Physics (Physics Department|AUTH) 
-- BSc Physics (Physics Department|AUTH)
+- MSc Computational Physics (Physics Department | AUTH) ⚙️
+- BSc Physics (Physics Department | AUTH) 🎓
   
 At the moment, I am a postgraduate student at MSc Computational Physics at Aristotle University of Thessaloniki
-- 💻 I’m working on many computational projects for my classes at the University
+- 🖥️ I’m working on many computational projects for my classes at the University
 - ⚛️ Interested in **Nuclear** and **Quantum Physics**, as well as in **Data Analysis**
 - 🗨️ Ask me about anything!
 - 📫 How to reach me: johnster789@gmail.com OR istergak@auth.gr
