@@ -8,7 +8,7 @@ At the moment, I am a postgraduate student at MSc Computational Physics at Arist
 - ⚛️ Interested in **Nuclear** and **Quantum Physics**, as well as in **Data Analysis**
 - 🗨️ Ask me about anything!
 - 📫 How to reach me: johnster789@gmail.com OR istergak@auth.gr
-- ⚡ Fun fact: Coding is hard, but every line of code gets us closer to unlocking the secrets of the universe 🌠
+- ⚡ Fun fact: *Coding is hard, but every line of code gets us closer to unlocking the secrets of the universe* 🪐🌠
 
 [![Ioannis Stergakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=istergak&show_icons=true&theme=tokyonight)](https://github.com/istergak/github-readme-stats) 
 
