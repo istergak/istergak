@@ -4,7 +4,7 @@
 - BSc Physics (Physics Department | AUTh) 🎓
   
 At the moment, I am a postgraduate student at MSc Computational Physics at Aristotle University of Thessaloniki
-- 🖥️ I’m working on my master thesis regarding the [*`Recontruction of EOSs of Exotic Stars using machine and deep learning regression models`*](https://github.com/istergak/MSc-Computational-Physics-AUTH/tree/main/Thesis%20-%20ML%20and%20ANNs%20regression%20models%20for%20Exotic%20Star's%20EOSs)
+- 🖥️ I’m working on my master thesis regarding the [*`Recontruction of EOSs of Exotic Stars using machine and deep learning regression techniques`*](https://github.com/istergak/MSc-Computational-Physics-AUTH/tree/main/Thesis%20-%20ML%20and%20ANNs%20regression%20models%20for%20Exotic%20Star's%20EOSs)
 - 👨‍🏫 To be teaching assistant at the undergraduate course of [`Quantum Physics Problems`](https://github.com/istergak/Quantum-Physics-Problems)
 - ⚛️ Interested in **Nuclear** and **Quantum Physics**, as well as in **Data Analysis**
 - 🗨️ Ask me about anything!
