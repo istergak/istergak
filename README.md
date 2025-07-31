@@ -1,4 +1,4 @@
-## *Hello, there* 👋 *my name is Ioannis*
+## *Hello there*, 👋 *my name is Ioannis*
 
 - MSc Computational Physics (Physics Department | AUTh | 2023-2025) 🎓
 - BSc Physics (Physics Department | AUTh | 2018-2023) 🎓
