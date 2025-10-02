@@ -1,9 +1,10 @@
 ## *Hello there*, 👋 *my name is Ioannis*
 
+- PhD candidate in Physics (Physics Department | AUTh | 2025-today)
 - MSc Computational Physics (Physics Department | AUTh | 2023-2025) 🎓
 - BSc Physics (Physics Department | AUTh | 2018-2023) 🎓
   
-At the moment, I have graduated from MSc Computational Physics at Aristotle University of Thessaloniki
+At the moment, I am a PhD candidate at Physics Department at Aristotle University of Thessaloniki
 - 🖥️ I have completed my master's thesis regarding the [*`Recontruction of EOSs of Exotic Stars using machine and deep learning regression techniques`*](https://github.com/istergak/MSc-Computational-Physics-AUTH/tree/main/Thesis%20-%20ML%20and%20ANNs%20regression%20models%20for%20Exotic%20Star's%20EOSs)
 - 👨‍🏫 Served as teaching assistant at the undergraduate course of [`Quantum Physics Problems`](https://github.com/istergak/Quantum-Physics-Problems)
 - ⚛️ Interested in **Nuclear** and **Quantum Physics**, as well as in **Data Analysis**,  **Machine** and **Deep Learning**
