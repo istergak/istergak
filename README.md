@@ -1,6 +1,6 @@
 ## *Hello there*, 👋 *my name is Ioannis*
 
-- PhD candidate in Physics (Physics Department | AUTh | 2025-today)
+- PhD candidate in Physics (Physics Department | AUTh | 2025-today) ⚙️
 - MSc Computational Physics (Physics Department | AUTh | 2023-2025) 🎓
 - BSc Physics (Physics Department | AUTh | 2018-2023) 🎓
   
